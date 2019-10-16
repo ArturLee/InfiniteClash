@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - racer1
+  - racer2
+  - checkpoint
+  - racer3
+  - racer4
+  - offtrack
+  - player1canvas
+  - player2canvas
+  - player3canvas
+  - player4canvas
+  - endRaceP1
+  - endRaceP2
+  - "\x10endRaceP3"
+  - endRaceP4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - attacks
+  - cars
+  - aiwalls
+  - MinimapSprite
+  - MinimapObkect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: e6896c967f8e14672b64c4ae47dbf4f3
+timeCreated: 1529378322
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: node_id10
+    100004: node_id11
+    100006: node_id12
+    100008: node_id13
+    100010: node_id14
+    100012: node_id15
+    100014: node_id16
+    100016: node_id17
+    100018: node_id18
+    100020: node_id19
+    100022: node_id20
+    100024: node_id21
+    100026: node_id22
+    100028: node_id23
+    100030: node_id24
+    100032: node_id25
+    100034: node_id26
+    100036: node_id27
+    100038: node_id28
+    100040: node_id29
+    100042: node_id30
+    100044: node_id31
+    100046: node_id32
+    100048: node_id33
+    100050: node_id34
+    100052: node_id35
+    100054: node_id36
+    100056: node_id37
+    100058: node_id38
+    100060: node_id39
+    100062: node_id4
+    100064: node_id4 1
+    100066: node_id4 2
+    100068: node_id4 3
+    100070: node_id4 4
+    100072: node_id4 5
+    100074: node_id4 6
+    100076: node_id4 7
+    100078: node_id4 8
+    100080: node_id4 9
+    100082: node_id40
+    100084: node_id41
+    100086: node_id42
+    100088: node_id43
+    100090: node_id44
+    100092: node_id45
+    100094: node_id46
+    100096: node_id47
+    100098: node_id48
+    100100: node_id49
+    100102: node_id5
+    100104: node_id50
+    100106: node_id51
+    100108: node_id52
+    100110: node_id53
+    100112: node_id54
+    100114: node_id55
+    100116: node_id56
+    100118: node_id6
+    100120: node_id67
+    100122: node_id7
+    100124: node_id8
+    100126: node_id9
+    400000: //RootNode
+    400002: node_id10
+    400004: node_id11
+    400006: node_id12
+    400008: node_id13
+    400010: node_id14
+    400012: node_id15
+    400014: node_id16
+    400016: node_id17
+    400018: node_id18
+    400020: node_id19
+    400022: node_id20
+    400024: node_id21
+    400026: node_id22
+    400028: node_id23
+    400030: node_id24
+    400032: node_id25
+    400034: node_id26
+    400036: node_id27
+    400038: node_id28
+    400040: node_id29
+    400042: node_id30
+    400044: node_id31
+    400046: node_id32
+    400048: node_id33
+    400050: node_id34
+    400052: node_id35
+    400054: node_id36
+    400056: node_id37
+    400058: node_id38
+    400060: node_id39
+    400062: node_id4
+    400064: node_id4 1
+    400066: node_id4 2
+    400068: node_id4 3
+    400070: node_id4 4
+    400072: node_id4 5
+    400074: node_id4 6
+    400076: node_id4 7
+    400078: node_id4 8
+    400080: node_id4 9
+    400082: node_id40
+    400084: node_id41
+    400086: node_id42
+    400088: node_id43
+    400090: node_id44
+    400092: node_id45
+    400094: node_id46
+    400096: node_id47
+    400098: node_id48
+    400100: node_id49
+    400102: node_id5
+    400104: node_id50
+    400106: node_id51
+    400108: node_id52
+    400110: node_id53
+    400112: node_id54
+    400114: node_id55
+    400116: node_id56
+    400118: node_id6
+    400120: node_id67
+    400122: node_id7
+    400124: node_id8
+    400126: node_id9
+    2100000: Material_76
+    2100002: Material_78
+    2100004: Material_80
+    2100006: Material_82
+    2100008: Material_84
+    2100010: Material_86
+    2100012: Material_88
+    2100014: Material_90
+    2100016: Material_92
+    2100018: Material_94
+    2300000: node_id4
+    2300002: node_id4 1
+    2300004: node_id4 2
+    2300006: node_id4 3
+    2300008: node_id4 4
+    2300010: node_id4 5
+    2300012: node_id4 6
+    2300014: node_id4 7
+    2300016: node_id4 8
+    2300018: node_id4 9
+    3300000: node_id4
+    3300002: node_id4 1
+    3300004: node_id4 2
+    3300006: node_id4 3
+    3300008: node_id4 4
+    3300010: node_id4 5
+    3300012: node_id4 6
+    3300014: node_id4 7
+    3300016: node_id4 8
+    3300018: node_id4 9
+    4300000: node_id4
+    4300002: node_id4
+    4300004: node_id4
+    4300006: node_id4
+    4300008: node_id4
+    4300010: node_id4
+    4300012: node_id4
+    4300014: node_id4
+    4300016: node_id4
+    4300018: node_id4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
