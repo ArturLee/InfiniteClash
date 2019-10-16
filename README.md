@@ -1,4 +1,4 @@
-Infinite Clash
+Infinite Clash - 4th School project 
 
 Its 3D multiplayer racing game, 
 
